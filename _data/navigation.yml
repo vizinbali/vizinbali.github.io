@@ -1,4 +1,6 @@
 header:
+  - portfolio: Portfolio
+    url: /home.html
   - titles:
       # @start locale config
       en      : &EN       Archive
