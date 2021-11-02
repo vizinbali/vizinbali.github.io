@@ -5,6 +5,7 @@ excerpt_type: html
 ---
 <br>
 <img src= "https://github.com/vizinbali/vizinbali.github.io/blob/194e7c6d953efc77d6957c5d17e009830640663b/docs/assets/images/perilaku_konsumen.JPG" width="600" class="center" />
+
 <!--more-->
 <div class='tableauPlaceholder' id='viz1635843678775' style='position: relative'><noscript><a href='#'>
   <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PerilakuKonsumenIndonesianViz_16343684397670&#47;Demografi&#47;1_rss.png' style='border: none' />
