@@ -4,7 +4,7 @@ tags: Tableau
 article_header:
     type: cover
     image: 
-      src: /docs/assets/images/perilaku_konsumen.JPG
+      src: docs/assets/images/perilaku_konsumen.JPG
 ---
 <br>
 <br>
