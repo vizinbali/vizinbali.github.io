@@ -26,10 +26,12 @@ titles:
 show_title: true
 articles:
   data_source: paginator.posts
-  type: grid
-  show_excerpt: false
-  show_readmore: false
-  show_info: false
+  type: item
+  show_cover: true
+  cover_size: md
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
 ---
 <div class="layout--home">
   {%- include paginator.html -%}
