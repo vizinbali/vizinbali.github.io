@@ -3,7 +3,7 @@ layout: article
 title: Perilaku Konsumen Wine di Jawa-Bali (Indonesian Viz)
 article_header:
     type: cover
-    image: https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PerilakuKonsumenIndonesianViz_16343684397670&#47;Demografi&#47;1.png
+    image: /screenshot.jpg
 ---
 <br>
 <br>
