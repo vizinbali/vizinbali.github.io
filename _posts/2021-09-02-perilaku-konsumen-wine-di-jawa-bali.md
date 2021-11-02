@@ -1,7 +1,10 @@
 ---
 title: Perilaku Konsumen Wine di Jawa-Bali (Indonesian Viz)
 tags: Tableau
-excerpt_type: html
+article_header:
+  type: cover
+  image:
+    src: /Demografi.png
 ---
 <br>
 <img src= "https://github.com/vizinbali/vizinbali.github.io/blob/194e7c6d953efc77d6957c5d17e009830640663b/docs/assets/images/perilaku_konsumen.JPG" width="600" class="center" />
