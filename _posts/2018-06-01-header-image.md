@@ -1,7 +1,6 @@
 ---
-layout: article
 title: Post with Header Image
-tags: test
+tags: TeXt
 article_header:
   type: cover
   image:
