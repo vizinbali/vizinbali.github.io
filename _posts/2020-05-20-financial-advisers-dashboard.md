@@ -2,7 +2,7 @@
 title: Financial Adviser Dashboard (April 2020)
 tags: 
 - Work Project
-- Tableau Public
+- Tableau Desktop
 cover: /FinancialAdviser.png
 ---
 
