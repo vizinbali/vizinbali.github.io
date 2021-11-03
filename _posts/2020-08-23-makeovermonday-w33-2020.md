@@ -1,5 +1,5 @@
 ---
-title: #MakeoverMonday Week 33 2020
+title: MakeoverMonday Week 33 2020
 tags: 
 - Makeover Monday
 - Tableau Public
