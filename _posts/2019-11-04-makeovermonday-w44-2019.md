@@ -6,10 +6,6 @@ tags:
 cover: /MMW442019.png
 ---
 
-As someone who lives in Bali and gets approximately [172 to 261 hours of sunlight per month](https://weather-and-climate.com/average-monthly-hours-Sunshine,Denpasar,Indonesia) throughout the year, I think I'd like to visit a few European countries between October and April for a change!
-
-I've decided to use heatmaps because it can easily visualise the difference in the average number of sunlight hours per month across European countries, sorted in descending order. Data source for this MakeoverMonday is from [here](https://data.world/makeovermonday/2019w44).
-
 <div class='tableauPlaceholder' id='viz1635923274946' style='position: relative'><noscript><a href='#'>
     <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2019W44-CitiesbySunshineDuration&#47;Europe&#47;1_rss.png' style='border: none' />
 </a>
@@ -41,3 +37,7 @@ I've decided to use heatmaps because it can easily visualise the difference in t
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+As someone who lives in Bali and gets approximately [172 to 261 hours of sunlight per month](https://weather-and-climate.com/average-monthly-hours-Sunshine,Denpasar,Indonesia) throughout the year, I think I'd like to visit a few European countries between October and April for a change!
+
+I've decided to use heatmaps because it can easily visualise the difference in the average number of sunlight hours per month across European countries, sorted in descending order. Data source for this MakeoverMonday is from [here](https://data.world/makeovermonday/2019w44).
