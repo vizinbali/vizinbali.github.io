@@ -5,18 +5,6 @@ tags:
 - Tableau Public
 cover: /MMW272020.png
 ---
-
-## Overview
-Mental health is one of the topics that I'm passionate about. CMDs such as anxiety and depression are still heavily stigmatised due to the general misconception that those who suffer from mental health disorders are 'crazy', that the illness 'isn't real' and it's 'all in your head'. This stigma is detrimental to the wellbeing of many people, especially **women and young people** who may have chosen to suffer silently due to fear of disclosing their situation. 
-
-I believe creating vizzes on mental health topics helps to raise awareness regarding CMDs because it is affecting more people than we have been conditioned to believe, with **1 in 10 people across all age groups in England** have reported CMD symptoms in 2014, with **women reporting higher proportion of CMD symptoms across all age grous**
-
-*"Everyone you meet is fighting a battle you know nothing about. Be kind, always."*
-
-## Data Source and Inspiration
-* [Comparing common mental disorder by sex](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex)
-* [Visual Vocabulary](https://public.tableau.com/app/profile/andy.kriebel#!/vizhome/VisualVocabulary/VisualVocabulary) by **Andy Kriebel** - a brilliant source for those who are looking for different ways to visualise data sets
-
 ## Visualisation
 I created two visualisations for this week's data because as a young woman, I believe it's important to highlight the issues faced by the people who are just like me.
 
@@ -78,4 +66,15 @@ var divElement = document.getElementById('viz1635945782773');
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Overview
+Mental health is one of the topics that I'm passionate about. CMDs such as anxiety and depression are still heavily stigmatised due to the general misconception that those who suffer from mental health disorders are 'crazy', that the illness 'isn't real' and it's 'all in your head'. This stigma is detrimental to the wellbeing of many people, especially **women and young people** who may have chosen to suffer silently due to fear of disclosing their situation. 
+
+I believe creating vizzes on mental health topics helps to raise awareness regarding CMDs because it is affecting more people than we have been conditioned to believe, with **1 in 10 people across all age groups in England** have reported CMD symptoms in 2014, with **women reporting higher proportion of CMD symptoms across all age grous**
+
+*"Everyone you meet is fighting a battle you know nothing about. Be kind, always."*
+
+## Data Source and Inspiration
+* [Comparing common mental disorder by sex](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex)
+* [Visual Vocabulary](https://public.tableau.com/app/profile/andy.kriebel#!/vizhome/VisualVocabulary/VisualVocabulary) by **Andy Kriebel** - a brilliant source for those who are looking for different ways to visualise data sets
 
