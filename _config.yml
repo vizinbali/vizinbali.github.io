@@ -37,7 +37,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : Eka
   url       :
-  avatar    : https://www.gravatar.com/avatar/b6893a8556d026d0e20ed52d1c4ee522 # path or url of avatar image (square)
+  avatar    : # path or url of avatar image (square)
   bio       : Balinese, aspiring Business Intelligence Analyst, Tableau enthusiast
   email     : eka_subrata@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -63,8 +63,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  landing : # home layout url, "/" (default)
-  home    : # home layout url, "/home.html" (default)
+  home : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
