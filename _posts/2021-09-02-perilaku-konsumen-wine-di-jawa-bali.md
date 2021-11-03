@@ -10,7 +10,14 @@ cover: /Demografi.png
 ---
 *Note: This post is best viewed on desktop.*
 
-Back in May, someone told me about a questionnaire that focuses on the demographic composition, behaviour, and sentiments wine consumers in Bali and Java. I found this topic to be interesting and challenged myself to present the findings in a way that makes the best use of the correspondent's answers. 
+Back in May, someone told me about a questionnaire that focuses on the demographic composition, behaviour, and sentiments of wine consumers in Java and Bali. I found this topic to be interesting and challenged myself to present the findings in a way that makes the best use of the respondents' answers. 
+
+Interesting takeaways from these dashboards:
+* More than half of the respondents enjoy consuming red wine, followed by white wine (45.8%), with the preferred price range between Rp 200,000 to Rp 400,000 per bottle
+* Respondents don't seem to have brand loyalty towards a certain brand and focuses on taste more than price when purchasing wine
+* Respondents often purchase wines made in Australia, Indonesia, and France
+* 90% of respondents have tried wines made in Indonesia (local wines), whilst more than 70% have purchased local wines before
+* Majority still prefers imported over local wines, with 'quality' and 'taste' highlighted as the main areas of improvement
 
 I aim to keep the visualisation clean and simple by using bar and tree charts, although I tried experimenting using modified butterfly charts to visualise the correspondent's sentiment regarding local wine, wine knowledge, and perception regarding wine for the final two dashboards of the workbook below.
 <br>
@@ -79,7 +86,7 @@ var divElement = document.getElementById('viz1635909419951');
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-<center><i>Do you recognise some of these wine brands?</i></center><br>
+<center><i>A word cloud generated from the respondents' answers regarding their favourite wine brands. Do you recognise some of these brands?</i></center><br>
 
 <div class='tableauPlaceholder' id='viz1635910813718' style='position: relative'><noscript><a href='#'>
   <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WineQuestionnaire-WordCloud&#47;WordCloud&#47;1_rss.png' style='border: none' />
