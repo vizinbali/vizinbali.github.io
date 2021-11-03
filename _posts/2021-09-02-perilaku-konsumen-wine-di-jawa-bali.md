@@ -1,6 +1,6 @@
 ---
 title: Perilaku Konsumen Wine di Jawa-Bali (Indonesian Viz)
-tags: 'Tableau Desktop' 'Tableau Prep' 'Tableau Public' 'Personal Project'
+tags: Tableau Project
 cover: /Demografi.png
 ---
 
