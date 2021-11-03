@@ -50,9 +50,7 @@ var divElement = document.getElementById('viz1635843678775');
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-I initially used Tableau Prep to clean and transform the data. However, I eventually found the cleansing process to be challenging due to the open-ended nature of some of the more important questions, such as favourite wine brand and consumer opinions regarding wine produced in Indonesia (referred to as 'local wine' in the questionnaire). 
-
-At some point, I had to manually clean and extract the question's results in Microsoft Excel, before saving them as separate data sources from the main workbook. As these two questions focus on words and phrases, I decided to generate word clouds on Tableau.
+I initially used Tableau Prep to clean and transform the data. However, I found the cleansing process to be challenging due to the open-ended nature of some of the more important questions, such as favourite wine brands and consumer opinions regarding local wines. As these two questions focus on words and phrases, I decided to separate them from the main workbook and generate word clouds on Tableau Desktop.
 
 <div class='tableauPlaceholder' id='viz1635909419951' style='position: relative'><noscript><a href='#'>
   <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WineQuestionnaire-MerkWineFavorit&#47;Dashboard1&#47;1_rss.png' style='border: none' />
@@ -87,6 +85,8 @@ var divElement = document.getElementById('viz1635909419951');
 </script>
 
 <center><i>A word cloud generated from the respondents' answers regarding their favourite wine brands. Do you recognise some of these brands?</i></center><br>
+
+The final viz focuses on the words and phrases that come to mind when respondents think about 'local wines'. The top five phrases are: 'Cheap', 'Want to try', 'Affordable', 'Hatten Wines' (a Balinese winery established in 1994), and 'Bali'. Despite majority preferring imported wines over local wines, a handful of respondents seem to have a generally positive outlook towards local wines.
 
 <div class='tableauPlaceholder' id='viz1635910813718' style='position: relative'><noscript><a href='#'>
   <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WineQuestionnaire-WordCloud&#47;WordCloud&#47;1_rss.png' style='border: none' />
