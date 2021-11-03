@@ -9,7 +9,9 @@ tags:
 cover: /Demografi.png
 ---
 
-This is one of the personal projects I have completed this year after finishing one semester of online studying. Back in May, someone told me about a questionnaire that focuses on the demographic composition, behaviour, and sentiments of those who consume wine in Bali and Java. I found the topic to be interesting and was able to retrieve the questionnaire's results in late June. I challenged myself to present the findings in a way that makes the best use of the correspondent's answers, although since the questionnaire was written in Indonesian, I decided to create a viz in Indonesian as well.
+This is one of the personal projects I have completed this year after finishing one semester of online studying. Back in May, someone told me about a questionnaire that focuses on the demographic composition, behaviour, and sentiments of those who consume wine in Bali and Java. 
+
+I found the topic to be interesting and was able to retrieve the questionnaire's results in late June. I challenged myself to present the findings in a way that makes the best use of the correspondent's answers, although since the questionnaire was written in Indonesian, I decided to create a viz in Indonesian as well.
 
 I mainly used Tableau Prep to clean and transform the data, before doing further (manual) cleaning using Microsoft Excel. I find the cleansing process to be quite challenging due to the open-ended question structure for some of the important questions.
 <br>
