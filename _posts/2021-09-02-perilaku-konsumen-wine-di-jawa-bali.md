@@ -8,6 +8,7 @@ tags:
 - Microsoft Excel
 cover: /Demografi.png
 ---
+*Note: This post is best viewed on desktop.*
 
 Back in May, someone told me about a questionnaire that focuses on the demographic composition, behaviour, and sentiments wine consumers in Bali and Java. I found this topic to be interesting and challenged myself to present the findings in a way that makes the best use of the correspondent's answers. 
 
@@ -77,7 +78,8 @@ var divElement = document.getElementById('viz1635909419951');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-<center>*Do you recognise some of these wine brands?*</center>
+
+<center><i>Do you recognise some of these wine brands?</i></center>
 
 <div class='tableauPlaceholder' id='viz1635910813718' style='position: relative'><noscript><a href='#'>
   <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wi&#47;WineQuestionnaire-WordCloud&#47;WordCloud&#47;1_rss.png' style='border: none' />
