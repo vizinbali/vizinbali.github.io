@@ -6,10 +6,6 @@ tags:
 cover: /MMW332020.png
 ---
 
-Data is sourced from [here](https://data.world/makeovermonday/2020w33-scotland-the-state-of-the-digital).
-
-I thought radial bar charts look interesting and is suitable for this visualisation, so I gave it a try. I used the tutorial from [Tableau Magic](https://tableau.toanhoang.com/radial-bar-chart-tutorial/).
-
 <div class='tableauPlaceholder' id='viz1635919889994' style='position: relative'><noscript><a href='#'>
     <img alt='Scotland ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayW332020&#47;Scotland&#47;1_rss.png' style='border: none' />
 </a>
@@ -40,3 +36,7 @@ var divElement = document.getElementById('viz1635919889994');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+I thought radial bar charts look interesting and is suitable for this visualisation, so I gave it a try. I used the tutorial from [Tableau Magic](https://tableau.toanhoang.com/radial-bar-chart-tutorial/).
+
+Data is sourced from [here](https://data.world/makeovermonday/2020w33-scotland-the-state-of-the-digital).
