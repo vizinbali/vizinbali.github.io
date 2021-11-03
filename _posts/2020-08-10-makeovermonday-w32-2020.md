@@ -5,6 +5,8 @@ tags:
 - Tableau Public
 ---
 
+I've been wanting to use waffle charts for one of my Makeover Monday viz for a while and I finally found a good example to replicate from the inspiration viz below :)
+
 ## Data Source and Inspiration
 * [Data Source](https://lp.buffer.com/state-of-remote-work-2020)
 * [Survival Rates of Reproductive Cancers](https://public.tableau.com/app/profile/gwennisme/viz/ReproductiveCancers/Dashboardv2) by **Gwendoline Tan**
