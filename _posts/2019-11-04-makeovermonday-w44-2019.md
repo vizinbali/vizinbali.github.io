@@ -1,5 +1,5 @@
 ---
-title: Makeover Monday Week 44 2019 - Where and When Would You Like to be in Europe?
+title: Makeover Monday Week 44 2019 - Where and when would you like to be in Europe?
 tags: 
 - Makeover Monday
 - Tableau Public
