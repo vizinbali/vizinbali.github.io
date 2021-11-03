@@ -48,7 +48,7 @@ I adore this viz and I think it's a success, although my next goal would be to c
 
 P. S. I'm absolutely thankful for the shoutout from my ex-manager on LinkedIn :)
 
-![image](/interactiveresume_comment.jpg){:width="500px"}
+![image](/interactiveresume_comment.jpg){:width="600px"}{: .center-image }
 
 ## Credits
 ### Viz Inspirations
@@ -58,8 +58,8 @@ P. S. I'm absolutely thankful for the shoutout from my ex-manager on LinkedIn :)
 * [Ann Jackson - Resume](https://public.tableau.com/app/profile/ann.jackson/viz/AnnJacksonResume/AnnJacksonResume) by **Ann Jackson**
 
 ### Tutorials
-*[Arc Chart Tutorial](https://tableau.toanhoang.com/arc-chart-tutorial/) by **Tableau Magic**
-*[Tableau QT: Rounded Bar Charts](https://tableau.toanhoang.com/tableau-qt-rounded-bar-charts/) by **Tableau Magic**
+* [Arc Chart Tutorial](https://tableau.toanhoang.com/arc-chart-tutorial/) by **Tableau Magic**
+* [Tableau QT: Rounded Bar Charts](https://tableau.toanhoang.com/tableau-qt-rounded-bar-charts/) by **Tableau Magic**
 
 ### Colour Scheme
 * [Dopely Colors #104](https://www.instagram.com/p/BwZFQVxB4zM/) by **@/mr.pugo** on Instagram
