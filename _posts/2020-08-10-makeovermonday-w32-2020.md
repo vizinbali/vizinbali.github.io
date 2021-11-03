@@ -3,6 +3,7 @@ title: MakeoverMonday Week 32 2020 - The Benefits of Remote Working
 tags: 
 - Makeover Monday
 - Tableau Public
+cover: /MMW322020.png
 ---
 
 I've been wanting to use waffle charts for one of my Makeover Monday viz for a while and I finally found a good example to replicate from the inspiration viz below :)
