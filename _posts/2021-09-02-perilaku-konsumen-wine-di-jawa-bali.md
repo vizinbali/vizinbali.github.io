@@ -1,5 +1,5 @@
 ---
-title: Perilaku Konsumen Wine di Jawa-Bali (Indonesian Viz)
+title: The Behaviour of Wine Consumers in Java-Bali (Indonesian Viz)
 tags: 
 - Personal Project
 - Tableau Desktop
