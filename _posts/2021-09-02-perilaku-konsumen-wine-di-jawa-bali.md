@@ -4,7 +4,6 @@ tags:
 - Personal Project
 - Tableau Desktop
 - Tableau Prep
-- Tableau Public
 - Microsoft Excel
 cover: /Demografi.png
 ---
