@@ -1,7 +1,7 @@
 ---
 title: Start of a Journey
 tags:
-- blog
+- Blog
 - Tableau Desktop
 cover: /tableauproject_cover.jpg
 ---
