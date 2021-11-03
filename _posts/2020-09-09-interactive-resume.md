@@ -48,5 +48,18 @@ I adore this viz and I think it's a success, although my next goal would be to c
 
 P. S. I'm absolutely thankful for the shoutout from my ex-manager on LinkedIn :)
 
-## Inspiration and Tutorials
+![](/interactiveresume_comment.jpg)
 
+## Credits
+### Viz Inspirations
+* [Sonia Warang - Resume](https://public.tableau.com/app/profile/sonia.warang/viz/SoniaWarang-Resume/SoniaWarang-Resume) by **Sonia Warang**
+* [Jasna - Interactive Resume](https://public.tableau.com/app/profile/jasna/viz/Jasna-Interactiveresume/RESUME) by **Jasna Dishlieska Mitova**
+* [Josh Tapley Resume](https://public.tableau.com/app/profile/josh.tapley/viz/JoshTapleyResume/ResumeOverview) by **Josh Tapley**
+* [Ann Jackson | Resume](https://public.tableau.com/app/profile/ann.jackson/viz/AnnJacksonResume/AnnJacksonResume) by **Ann Jackson**
+
+### Tutorials
+*[Arc Chart Tutorial](https://tableau.toanhoang.com/arc-chart-tutorial/) by **Tableau Magic**
+*[Tableau QT: Rounded Bar Charts](https://tableau.toanhoang.com/tableau-qt-rounded-bar-charts/) by **Tableau Magic**
+
+### Colour Scheme
+* [Dopely Colors #104](https://www.instagram.com/p/BwZFQVxB4zM/) by **@/mr.pugo** on Instagram
