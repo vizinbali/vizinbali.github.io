@@ -25,9 +25,13 @@ I mainly used Tableau Prep to clean and transform the data, before doing further
   <param name='site_root' value='' />
   <param name='name' value='PerilakuKonsumenIndonesianViz_16343684397670&#47;Demografi' />
   <param name='tabs' value='yes' />
-  <param name='toolbar' value='yes' />
+  <param name='toolbar' value='no' />
   <param name='display_count' value='yes' />
   <param name='language' value='en-GB' />
+  <param name="dataDetails" value="no" />
+  <param name="alerts" value="no" />
+  <param name="showShareOptions" value="false" />
+  <param name="subscriptions" value="no" />
   
 </object>
 </div>                
