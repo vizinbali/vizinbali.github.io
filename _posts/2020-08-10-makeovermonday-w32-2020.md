@@ -5,13 +5,6 @@ tags:
 - Tableau Public
 cover: /MMW322020.png
 ---
-
-I've been wanting to use waffle charts for one of my Makeover Monday viz for a while and I finally found a good example to replicate from the inspiration viz below :)
-
-## Data Source and Inspiration
-* [Data Source](https://lp.buffer.com/state-of-remote-work-2020)
-* [Survival Rates of Reproductive Cancers](https://public.tableau.com/app/profile/gwennisme/viz/ReproductiveCancers/Dashboardv2) by **Gwendoline Tan**
-
 ## Visualisation
 <div class='tableauPlaceholder' id='viz1635920971595' style='position: relative'><noscript><a href='#'>
     <img alt='The benefits of remote working ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayW322020-TheBenefitsofRemoteWorking&#47;TheBenefitsofRemoteWorking&#47;1_rss.png' style='border: none' />
@@ -44,3 +37,10 @@ I've been wanting to use waffle charts for one of my Makeover Monday viz for a w
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+I've been wanting to use waffle charts for one of my Makeover Monday viz for a while and I finally found a good example to replicate from the inspiration viz below :)
+
+## Data Source and Inspiration
+* [Data Source](https://lp.buffer.com/state-of-remote-work-2020)
+* [Survival Rates of Reproductive Cancers](https://public.tableau.com/app/profile/gwennisme/viz/ReproductiveCancers/Dashboardv2) by **Gwendoline Tan**
+
