@@ -6,7 +6,7 @@ tags:
 cover: /MMW442019.png
 ---
 
-As someone who lives in Bali and gets an average of [2,672 hours of sunlight per year](https://weather-and-climate.com/average-monthly-hours-Sunshine,Denpasar,Indonesia), I'd like to visit a European country with fewer sunlight hours for a change!
+As someone who lives in Bali and gets approximately [172 to 261 hours of sunlight per month](https://weather-and-climate.com/average-monthly-hours-Sunshine,Denpasar,Indonesia), I think I'd like to visit a few European countries between October and April for a change!
 
 Data source for this MakeoverMonday is from [here](https://data.world/makeovermonday/2019w44).
 
