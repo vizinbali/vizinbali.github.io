@@ -22,12 +22,13 @@ The workbook below only contains 3 dashboards from the complete workbook.
     <param name='site_root' value='' />
     <param name='name' value='FAMDashboardTableauPublicVers&#47;1ALicenseeView-Advisers' />
     <param name='tabs' value='yes' />
-    <param name='toolbar' value='top' />
+    <param name='toolbar' value='no' />
     <param name='device' value='desktop' />
     <param name='display_count' value='yes' />
     <param name='language' value='en-GB' />
     <param name="dataDetails" value="no" />
     <param name="alerts" value="no" />
+    <param name="customViews" value="no" />
     <param name="showShareOptions" value="false" />
     <param name="subscriptions" value="no" />
     <param name='show_viz_home' value='no' />
