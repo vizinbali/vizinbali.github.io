@@ -12,6 +12,12 @@ cover: /FAMDashboard.png
 ## Visualisation
 The workbook below only contains 3 dashboards from the complete workbook.
 
+<style>
+  body {
+	overflow-y: hidden;
+}
+</style>
+
 <div class='tableauPlaceholder' id='viz1638780001630' style='position: relative'><noscript><a href='#'>
     <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FA&#47;FAMDashboardTableauPublicVers&#47;1ALicenseeView-Advisers&#47;1_rss.png' style='border: none' />
 </a>
@@ -44,7 +50,7 @@ var divElement = document.getElementById('viz1638780001630');
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+<br><br>
 <style>
 
 iframe {overflow:hidden}
