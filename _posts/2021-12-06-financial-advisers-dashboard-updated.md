@@ -13,7 +13,7 @@ cover: /FAMDashboard.png
 The workbook below only contains 3 dashboards from the complete workbook.
 
 <style>
-  body {
+  div {
 	overflow-y: hidden;
 }
 </style>
