@@ -30,6 +30,7 @@ The workbook below only contains 3 dashboards from the complete workbook.
     <param name="alerts" value="no" />
     <param name="showShareOptions" value="false" />
     <param name="subscriptions" value="no" />
+    <param name='show_viz_home' value='no' />
 
 </object>
 </div>                
