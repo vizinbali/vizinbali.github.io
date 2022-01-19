@@ -12,9 +12,11 @@ cover: /FAMDashboard.png
 ## Visualisation
 The workbook below only contains 3 dashboards from the complete workbook.
 
-div {
-  overflow-y: hidden;  
+<style>
+  * {
+	overflow-y: hidden;
 }
+</style>
 
 <div class='tableauPlaceholder' id='viz1638780001630' style='position: relative'><noscript><a href='#'>
     <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FA&#47;FAMDashboardTableauPublicVers&#47;1ALicenseeView-Advisers&#47;1_rss.png' style='border: none' />
