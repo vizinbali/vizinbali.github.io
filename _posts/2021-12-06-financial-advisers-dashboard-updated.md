@@ -14,6 +14,7 @@ The workbook below only contains 3 dashboards from the complete workbook.
 
 <style>
   .tableauPlaceholder {
+    overflow-x: hidden;
     overflow-y: hidden;
  }
  </style>
