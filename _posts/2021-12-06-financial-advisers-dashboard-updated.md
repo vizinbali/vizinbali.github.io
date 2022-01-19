@@ -45,6 +45,8 @@ var divElement = document.getElementById('viz1638780001630');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<iframe frameborder="0" marginheight="0" marginwidth="0" title="data visualization" allowtransparency="true" allowfullscreen="false" class="tableauViz" style="display: block; width: 100%; height: 1220px; margin: 0px; padding: 0px; border: none;" name="fitvid0" scroll = "no" src="https://public.tableau.com/views/FAMDashboardTableauPublicVers/1ALicenseeView-Advisers?:language=en-GB&:display_count=n&:origin=viz_share_link&:dataDetails=no&:alerts=no&:customViews=no&:device=desktop&:showShareOptions=false&:showVizHome=no&:subscriptions=no&:tabs=yes&&:toolbar=no">
+
 ## Overview
 ### Background
 These dashboards focus on tracking the movements (appointments and resignations) of Australian financial advisers on a weekly, Financial Year (July 1st to June 30th), and Calendar Year basis. I have previously revamped the design of the original workbook and created [draft versions of these dashboards in May 2020](https://vizinbali.github.io/2020/05/20/financial-advisers-dashboard.html) for a former colleague of mine. He went on to develop more financial adviser-related dashboards throughout 2020 and reached out again to me sometime in late June.
